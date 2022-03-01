@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A Brief account of some choice &amp; famous medicines]</title>
+            <author>B. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08404</idno>
+            <idno type="OCLC"> 124064092</idno>
+            <idno type="STC">Wing B158</idno>
+            <idno type="STC">ESTC R170413</idno>
+            <idno type="EEBO-CITATION">124064092</idno>
+            <idno type="OCLC">ocn 124064092</idno>
+            <idno type="VID">192200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192200)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2902:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A Brief account of some choice &amp; famous medicines]</title>
+                  <author>B. R.</author>
+               </titleStmt>
+               <extent>p. 3-29, [2].   </extent>
+               <publicationStmt>
+                  <publisher>Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [2] at end.</note>
+                  <note>Imperfect: lacking t.p. and all before p. 3; author, title, and imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Toronto Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drugs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="remedy">
+            <pb n="3" facs="tcp:192200:1"/>
+            <gap reason="missing" extent="2+ pages">
+               <desc>〈2… pages missing〉</desc>
+            </gap>
+            <p>It helps a Stomach that is Weak, Cold,
+<note place="margin">Weak, Cold Sto<g ref="char:EOLhyphen"/>machs of hard digeſtion, &amp; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> and of Hard Di<g ref="char:EOLhyphen"/>geſtion, and doth greatly ſtrengthen the ſame, Conſumes cor<g ref="char:EOLhyphen"/>rupt Phlegm, and helps concoction, being taken with White-Bread and Sugar, two or three ſpoonfuls at a time. A double Linnen cloath may be dipped in the warm Spirit, and applied to the Cold and Weak Stomach, for it helps difficulty of con<g ref="char:EOLhyphen"/>coction, ſtops vomittings, and mitigates all pains, and Sobbings (or Hickoughs) which proceed from a cold temper, or win<g ref="char:EOLhyphen"/>dy humour.</p>
+            <p>It is obſervable that weak and cold Stomachs are oftentimes oppreſſed after moderate eating, and ſometimes the ſtrong,
+<note place="margin">Surfeit</note> by ſome contrary meat, or ill Cookery, whence proceed Surfeirs, which if not prevented, many times beget Feavers, and ſo death. Very large experience of this Spirit, hath been found in this caſe for many years; it never failing to remove any ſuch inconvenience from the Stomach, if timely uſed; for which purpoſe, take One or Two Ounces, once in 6 hours, or 12 hours, until no more of the undigeſted matter remains in the Stomach; which it commonly expels, at firſt or ſecond taking.</p>
+            <p>It is of great virtue in Diſeaſes of the Inteſtines,
+<note place="margin">Bowels.</note> for by means of its Diaphoretick quality, it diſſipateth not only in the Sto<g ref="char:EOLhyphen"/>mach, but alſo in the bowels all tough and clammy Phlegm, with other viſcid, thin, or ſerous humours.</p>
+            <p>It warmeth by its penetrating heat, the Entrals,
+<note place="margin">Cholick.</note> made cold by drink, air, or other accidents; expels wind, and both in<g ref="char:EOLhyphen"/>wardly taken, &amp; outwardly applyed, it aſſwageth thoſe vehement pains which ariſe from the Colick, which Diſeaſe hath been in a ſhort time diſſipated by this means, in one, with whom it was familiar, and upon the leaſt occaſion bred.</p>
+            <p>It is of great profit in all Fluxes of the Bowels,
+<note place="margin">Lienter. Diarhaea. Diſeuter.</note> which are occaſioned by the weakneſs of the retentive faculty of the Sto<g ref="char:EOLhyphen"/>mack, &amp; Inteſtines, proceeding for the moſt part from a cold and moiſt diſtemper, therefore two or three ſpoonfuls of it may be
+<pb n="4" facs="tcp:192200:2" rendition="simple:additions"/>given in Sugar, as often as ſhall be needful, with a Toſt of Rye or Wheat bread, and let a double Linnen cloath be moiſtened in it, and applyed warm to the Stomach and Bowels.</p>
+            <p>In the obſtructions of the Meſentery,
+<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ructions <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Me<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ry, Li<g ref="char:EOLhyphen"/>ver and Spleen.</note> Liver, and Spleen, from whence proceed the Scurvy, Yellow and Black Jaundice, after the humours have been ſufficiently carried away by proper Me<g ref="char:EOLhyphen"/>dicines, this Spirit very fitly takes place, which opens the ſtop<g ref="char:EOLhyphen"/>pages and crammings of the Meſentery, Liver, Milt, and Gall, cuts and prepares the thickneſs of humours, and by its penetra<g ref="char:EOLhyphen"/>ting virtues provokes Sweat,</p>
+            <p>In the Scurvy after purging and cutting Medicines,
+<note place="margin">Scurvy.</note> the great<g ref="char:EOLhyphen"/>eſt hope of health is placed in evacuating the Seroſities, by ſweating, for which purpoſe a quantity of this Spirit may be ta<g ref="char:EOLhyphen"/>ken, according to the Conſtitution, as often as need ſhall require.</p>
+            <p>In the Dropſie and Timpany,
+<note place="margin">Dropſie.</note> when the Body is emptied by proper Medicines, as aforeſaid, if the Liver be not hot, nor the Urine red, this Spirit may be uſed with good ſucceſs; two or three ſpoonfuls, more or leſs in two or three ounces of the wa<g ref="char:EOLhyphen"/>ter of Elder Flowers, and one ounce of the Syrrup of Elder ber<g ref="char:EOLhyphen"/>ryes. Then in bed provoke Sweat. Alſo two or three ſpoon<g ref="char:EOLhyphen"/>fulls of the Spirit, may be taken alone, at any time, with a Toſt made of white bread and ſweetned with Sugar.</p>
+            <p>In the ſtoppage of the Monthly Terms,
+<note place="margin">Terms ſtop<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</note> after the body hath been disburthened by ſome Purging Phyſick of that putrid filth, which is occaſioned by the obſtruction, this Spirit is very uſe<g ref="char:EOLhyphen"/>full, which by its ſubtility paſſes through the whole body, and through the leaſt Veſſels thereof, cutting and attenuating the groſsneſs of the humours: it may be taken the ſame time the Courſes uſe to flow, one, two, or three ſpoonfuls in White-wine, and Sugar, Mornings and Evenings.</p>
+            <pb n="5" facs="tcp:192200:2"/>
+            <p> In the Suffocation of the Matrix,
+<note place="margin">Suffocation of the Ma<g ref="char:EOLhyphen"/>trix.</note> the Womb being firſt purg<g ref="char:EOLhyphen"/>ed of the malignant and foetid humours, one or more ſpoonfuls of this Spirit greatly availeth, both out, and in time of the Fitt; for it powerfully diſcuſſes thoſe cold, and poiſonous vapours, evacuates by Urine, vindicates the more noble Entrals from their infection, and reſtores freer breathing.</p>
+            <p>Take of the Pith that is in the middle of the Elder-ſtick,
+<note place="margin">Stone.</note> and of Juniper berries of each four ounces, which put toge<g ref="char:EOLhyphen"/>ther into a ſtrong glaſs bottle that will hold a pottle, pour there<g ref="char:EOLhyphen"/>on a quart of this Spirit, ſtop it very cloſe, and let it ſtand 7 daies in a bath of warm water, or in the Sun, at Summer; then dreſs it ſtrongly, and keep it in a glaſs cloſe ſtopped, The uſe of this is excellent in breaking, and expelling the Stone, ſome ſpoonfuls of it being taken in a glaſs of White-wine and Sugar, as often as there ſhall be occaſion, the Stomach and bow<g ref="char:EOLhyphen"/>els, having by purging Medicines, been firſt cleanſed of the thick ſlimy Phlegm, and Tartarous humours,</p>
+            <p>The Gout is ſo ſtiff and ſtubborn a Diſeaſe,
+<note place="margin">Gout.</note> that often<g ref="char:EOLhyphen"/>times it contemns the beſt preſcriptions; wherefore to hinder the increaſe of thoſe ſerous humours which moſt commonly do occaſion it, and alſo to evacuate thoſe which are already ſprung up, Purging Medicines muſt be often taken at the Spring and Fall; and ſweating uſed once or twice a Month, after the body hath been treated with ſome convenient Purga<g ref="char:EOLhyphen"/>tive. The ſerous matter gathered in the body, is eaſily diſ<g ref="char:EOLhyphen"/>cuſſed by ſweat; and aſſoon as natural or artificial ſweat appears, there is great hopes of ſafety: for which purpoſe take one ounce of this Spirit with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntimon. Diaphoret. and Hartſhorn prepa<g ref="char:EOLhyphen"/>red without burning, of each ten Grains, in a glaſs of good wine in the morning, cover your ſelf warm in your bed, and ſweat after as long as may be convenient. If it be taken a little before the Fitt, it diſappoints it.</p>
+            <p>It hath been the common practice of ſome, for many years, aſſoon as any one is taken ſuddenly ſick, whether Children, or
+<pb n="6" facs="tcp:192200:3"/>Perſons of riper years, to give from one ſpoonful of this Spirit to ſix ſpoonfuls, according to the age and Conſtitution, and to cover them warm on their bed; which ſoon expells what<g ref="char:EOLhyphen"/>ever hurtful matter occaſioned their ſickneſs, although they have oftentimes appeared to be affected with much violence.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Tarter Dyet drink</hi> opens all obſtructions in any part of the body, cleanſes and purifies the Blood, cauſes a freſh and lively habit of the body, procures a chearful frame of Spirit, corrects all evil humours, and effectually purges Choler, Phlegm, Melancholy, and wateriſh humours, from all parts. It frees the head from what ever annoyeth it; quickens the ſenſes; re<g ref="char:EOLhyphen"/>moves any humours which affect the Sromach, Heart, Lungs, Li<g ref="char:EOLhyphen"/>ver, Spleen, and Bowels, ſtrengthning them exceedingly: It is very available in Agues of all ſorts, (the uſe of it hath often<g ref="char:EOLhyphen"/>time cured Quartans) in the Hypocondriack Melancholy, Scur<g ref="char:EOLhyphen"/>vy, Madneſs, Jaundies, Green-ſickneſs, Dropſie, Sciatica, Gout, pain in the Joynts, Cholick, Fluxes, the Kings-Evil, Rheumes, Coughs, Shortneſs of breath, Whites, Worms, and Rickets. It cleanſeth the Reigns, Kidneys and Bladder, provoketh U<g ref="char:EOLhyphen"/>rine, expelleth Wind, and by removing all ſuperfluous humours, prevents whatſoever diſeaſes uſually proceed from them, or may be occaſioned by them.</p>
+            <p>It may be uſed by Men, Women, and Children, according to their ſeveral ages, and its operation, from one ſpoonful to half a Pint, or more. For the prevention of Diſeaſes, take it at Spring and Fall, in the morning faſting, for many daies together: For the keeping off, and removing any diſtemper, take it at any time, when cauſe ſhall be ſeen, whether it be Summer, or Winter. In Quartan Agues, Scurvy, Dropſie, Hypocondriack Melancholy, and ſuch laſting diſeaſes, it muſt be uſed fifteen or twenty daies, and that either without any intermiſſion, or once every other day, or twice a Week, until the Humours be overpow'red and the diſeaſe maſtered. In very hot weather, 'tis good to avoid
+<pb n="7" facs="tcp:192200:3"/>whatſoever motion might occaſion ſweat, and in Extream Cold to keep your ſelf by the fire, or if neither of theſe happen, you may do as at other times. He that will eat a diſh of Broath, drink a draught of Whey, warm Poſſet, Beer or Ale, 2 hours af<g ref="char:EOLhyphen"/>ter taking the Dyet-drink, may uſe which is beſt liking to him, and he that regards neither, may forbear: 'tis good to eat ſome warm Broath, and Meat for dinner.</p>
+            <p>Take a Firken that will hold between three and four Wine Gallons, fill it with good Beer from the Kyve, well hopped, and boiled, ſo as it may keep long; when it hath done working, put into it a thin linnen Bag, and let the mouth thereof hang out of the Bung, until all the Ingredients in the Paper are put in; then tie it faſt, and let it lye in the Firkin, ſtopping it cloſe, the ſtring being left out of the Bung, when it is a Fort<g ref="char:EOLhyphen"/>night old begin to uſe it, which, before it grows low and flat, bottle, and keep in a cold place for uſe: The Firkin may be filled again with good Beer from the Kyve, and when 'tis clear, and fit to drink, may be uſed any time upon an empty Stomach, what quantity ſhall be ſeen convenient.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>Tinctura Mirabilis</hi> Purgeth all Viſcous and Clammy Hu<g ref="char:EOLhyphen"/>mours without trouble, as alſo Choler Phlegm, and Melan<g ref="char:EOLhyphen"/>choly; is an Excellent Medicine in the Dropſie, in all Diſeaſes of the Brain, Nerves, Joynts, Breaſt and Lungs; and therefore is to be exhibited to Perſons affected with Fluxes of Rhume, Old Coughs, the Gout, Colick, Scurvy, the Jaundies, Agues of all ſorts, Apoplexy, Epilepſy, and Vertigo. It is ſaid to be a perfect cure of the Gonorhaea, the uſe of it being continued until the party is well; 'tis likewiſe of great benefit, and very help<g ref="char:EOLhyphen"/>full in all accidents of Venereal diſeaſes: the Doſe is three ſpoonfuls, but it may be varied according to the ſtrength and conſtitution of the Patient, from one ſpoonful to four. Take it in the morning faſting, in a glaſs of Sack, or ſtrong Beer; or by it ſelf, drinking a glaſs of either, as ſoon as the Tincture is down; two or three hours after, eat a diſh of warm Broath,
+<pb n="8" facs="tcp:192200:4"/>and for dinner ſomething that is warm, and of eaſy digeſtion. If it gives not three or four Stools that day, take three ſpoon<g ref="char:EOLhyphen"/>fuls of it alſo at night going to bed, three hours after a light Sup<g ref="char:EOLhyphen"/>per: Continue the uſe of it every morning, or other morning, without any other obſervation, but follow your buſineſs as at o<g ref="char:EOLhyphen"/>ther times, until the deſired benefit be found. 'Tis a familiar Medicine, agreeable unto Nature, leaves no nauſeouſneſs in the ſtomach is Cordial, reviving, and chearing the Spirits, removing whatever clogs and annoys them.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Aromatick Tincture</hi> purgeth Choler, Phlegm, and all corrupt, ſtinking and putrid humours from the Stomach, Entrals, Hypocondria and Meſentery. It clears the Senſes, re<g ref="char:EOLhyphen"/>ſtores a good Colour to thoſe that have loſt it, cleanſes the Blood, opens Obſtructions, and ſtrengthens the Stomach and Bowels exceedingly; kills Worms, cures all Head-aches, leaves no impurity in the body, and is found to be good in Agues by removing thoſe humours which continually nouriſh them; 'tis very Cordial, and exceedingly helps ſuch as are troubled with Faintings, and ſubject to Vomiting and Purging. It is a very familiar and ſafe Medicine, friendly to Nature, and may be u<g ref="char:EOLhyphen"/>ſed by all ages and ſorts of people, at any time of the year. The Doſe is from half a Childs ſpoonful, to three or four large ſpoonfuls, according to the age and conſtitution: Take it in Beer, or Wine, or alone, if what is taken in the morning, works not, the like, or a ſufficient quantity may be taken at night going to bed, three hours after Supper, or you may take it at any time on an empty ſtomach, two or three hours before Meals, a diſh of warm Broath is beſt to be eaten the next thing after it, and what elſe you have moſt minde unto, ſo as it be warm, and of good digeſtion.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Lenitive Electuary</hi> gently opens the Bowels, and Purges all humours without any trouble, an Ounce of it being ta<g ref="char:EOLhyphen"/>ken at night going to bed; Eat ſome Broath the next morning
+<pb n="9" facs="tcp:192200:4"/>for Breakfaſt, and walk abroad as at other times: 'Tis profitable in Feavers to keep the body ſoluble, and to carry off the offend<g ref="char:EOLhyphen"/>ing humours: It may be ſafely uſed by all perſons, and in all diſtempers where gentle opening means are required, Morn<g ref="char:EOLhyphen"/>ings, or at any time upon an empty ſtomach.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Spleen Pills</hi> do gently purge Choler, Phlegm, and Me<g ref="char:EOLhyphen"/>lancholy, from the Stomach, Head, and Bowels, they are with good ſucceſs uſed in the ill habit of the body, and all de<g ref="char:EOLhyphen"/>fects of the ſtomach, proceeding from foulneſs, an abounding of Humours, and Wind, in the Jaundice, Dropſie, long laſting putrid Feavers, Worms, and Agues of all ſorts: They open the obſtructions of the Liver, and Spleen, and are an excellent Me<g ref="char:EOLhyphen"/>dicine againſt all Melancholick and Windy diſtempers, pro<g ref="char:EOLhyphen"/>ceeding from the Womb, Spleen, or any other part. The frequent uſe of them works good effects in the Scurvy and Hy<g ref="char:EOLhyphen"/>pochondriack Melancholy; they may be given without danger to all Conſtitutions, Ages and Sexes. Take out of the Maſs a quarter of an Ounce, make twelve Pills and ſwallow down three of them every night, or other night, three hours after a light Supper, or twice a week, ſo long as the diſtemper laſts: the next morning for Breakfaſt eat a diſh of Herb Pottage, and follow your buſineſs, as at other times, if the three Pills taken at night, give not three or four Stools the next day, three more may be taken next morning, and ſo continue the uſe of them Mornings and Evenings.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Common Pills</hi> do purge Choler, Phlegm and Melan<g ref="char:EOLhyphen"/>choly, with other moiſt, tough and groſs Humours from the Head, Stomach, Breaſt, Liver, Spleen, Womb, Bowels, Veins, Joints, Sinews, and Muſcles, or any other part of the body; and ſo, they remove all Diſeaſes occaſioned by the abounding of ſuch like humours, as Pains, Giddineſs or Swimming of the Head, all defects of the Stomach and bowels,
+<pb n="8" facs="tcp:192200:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:192200:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:192200:6"/>Coughs, Shortneſs of breath, the Cholick, Gout, Sciatica, &amp; other pains of the Joints and Sinews, the Jaundice, Dropſie, and all other Melancholick Diſeaſes. The Pale Colour in Girls proceeding from obſtructions, with Agues of all ſorts. They open the ſtoppages of the Liver, Spleen, and other parts; ſtrengthen all the inward faculties, and may be uſed with ſafety in all caſes where purging is neceſſary, having been found by long experience and much uſe, to conduce greatly to the preſerving of health, and to the removing of many ſtubborn Diſeaſes. Take one Dram at a time, in the morning faſting, made into ſix Pills, once in four daies; about two or three hours after, riſe from your bed, drink warm Poſſet or broath and keep in. Take them three or four times following, or oftener if need require. A perſon of reaſonable ſtrength may take one Dram, others half as much, or two Scruples, made into 3 or 4 Pills.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Strong Pills</hi> purge all humours from the deepeſt and remoteſt parts of the body, as the Brain, Nerves, Muſcles, Joints, Breaſt and Womb. They may be uſed for inveterate pains of the head, Apoplexy, Falling ſickneſs, Palſey, Madneſs, or any difficult diſtemper throughout the body. Give them only to ſtrong Conſtitutions, half a Dram, two Scruples, or one Dram at a time, in the morning faſting: two or three hours after, drink warm Poſſet or broath, and keep in: the uſe of them may be repeated three or four times, or oftener, if there ſhall be occaſion.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Purging Powder</hi> is known by long experience to be a ſafe and good Medicine, purging gently Choler, Phlegm, Melancholy and Wateriſh humours, from the Head, Stomach, Lungs, Liver, Spleen, and Bowels: It cleanſes thoſe parts of evil humours, opens all Obſtructions, ſtrengthens the Senſes, procures Mirth, purifies the blood, cauſes a freſh and lively Ha<g ref="char:EOLhyphen"/>bit of the body, and is good in all ſorts of Agues: Perſons of
+<pb n="11" facs="tcp:192200:6"/>ripe years may take one Dram and half at a time in the morn<g ref="char:EOLhyphen"/>ing faſting, in White-wine. Syder, or Poſſet; faſt two hours after, then drink now and then ſome warm Poſſet, and keep within doors. Take it once in two or three daies, for three or four times. Children may take from ten Grains to a Dram, ac<g ref="char:EOLhyphen"/>cording to their age, and ſtrength. 'Tis a proper Medicine to be given after the Small Pox and Meaſles, to prevent the in<g ref="char:EOLhyphen"/>conveniencies which oftentimes happen by the neglect of purg<g ref="char:EOLhyphen"/>ing Phyſick.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Rheume Pills</hi> have a marvellous operation in all man<g ref="char:EOLhyphen"/>ner of Thin and Subtle Defluxions and Diſtillations of Rheum, whether it falls upon the Breaſt and Lungs with a Cough, or into the Teeth, or any where elſe, they procure ſleep, and have been known abſolutely to cure any new Cough, though never ſo violent, in four times taking. In the incurable Cough they give much eaſe, free the Breaſt from foul humours, open Obſtructions, and ſtrengthen the body exceedingly. Take three of them at a time every other night going to ſleep, for four times: or until the Cough be gone, uſing the Drink made of Liquorice, Figs, and Anniſeed, half a Pint, or more at a time warm, mornings and evenings, firſt and laſt. Thoſe nights you take the Pills, the drink may be uſed an hour or two ſooner.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Pectoral Roles</hi> are an excellent Medicine; they very much open the Wind pipe, and help its roughneſs, wheeſ<g ref="char:EOLhyphen"/>ings, hoarſneſs, and difficulty of breathing: Ripen the Cough, bring forth Phlegm, quench thirſt, are good againſt ſour and offenſive belchings, the heat of the Mouth and Stomach, as alſo the heat in the breaſt, called by ſome Heart-burning, all griefs of the Cheſt, and Lungs, Ptiſick and Conſumption. Hold ſome of them in your mouth, to diſſolve, at any time, eſpecial<g ref="char:EOLhyphen"/>ly at night in bed.</p>
+         </div>
+         <div type="remedy">
+            <pb n="12" facs="tcp:192200:7"/>
+            <head>Pectoral Drink.</head>
+            <p>TAke of Figs a quarter of a Pound opened; Liquorice one Ounce bruiſed, Anniſeed half an Ounce, boil them in three quarts of water to two quarts, ſtrain it, and take it warm half a Pint or more at a time, Mornings and Evenings, firſt and laſt, for Coughs of all ſorts. The uſe of this hath often proved very ſucceſsful. For Stuffing of the Breaſt and Lungs with Phlegm, add to a pint of this Liquor two Ounces of Syrup of Scabious, and take a good draught at a time.</p>
+         </div>
+         <div type="remedy">
+            <head>Pectoral Drink.</head>
+            <p>TAke of Fair water Four Quarts, dryed Hyſop one handful, Liquorice half an Ounce, Raiſons of the Sun ſtoned and Figs of each two Ounces, boil all gently till a quart is conſu<g ref="char:EOLhyphen"/>med, ſtrain it, and add of Honey a quarter of a pound; boil it again a turn or two, Scum it well, bottle it, and uſe it as the former for the ſame purpoſes, with Syrup of Scabious, or with<g ref="char:EOLhyphen"/>out it, as there ſhall be cauſe.</p>
+         </div>
+         <div type="remedy">
+            <p>THe true <hi>Elixir Proprietatis,</hi> ſo highly eſteemed for its great virtues, and ſold at ſo many places in <hi>London,</hi> is here alſo to be had, rightly and exactly Prepared; whoſe Virtues follow. It is moderately hot and dry, preſerves from putrefaction, is admirably effectual againſt corrupted Air, and affects of the Head, Breaſt, Stomach, and Lungs. It expels crude humours from the Stomach, procures a good Appetite, and Digeſtion, ſtrengthens a weak ſtomach very much, and is profitable in Rheums, Coughs, Shortneſs of Breath and Conſumptions: it comforts the Heart, ſtrengthens the Memory, revives the Senſes, drives away Dimneſs of ſight, diſſolves the Stone of the Reins, preſerves from the Palſey and Gout, removes Melan<g ref="char:EOLhyphen"/>choly, cauſes Cheerfulneſs, cures all ſorts of Agues and Feavers,
+<pb n="13" facs="tcp:192200:7"/>heals all inward Wounds and Ulcers, expels all Crudities, and other inconveniencies occaſioned by exceſs in eating or drink<g ref="char:EOLhyphen"/>ing; 'tis ſaid to be the Balſom of the Antients; by moſt ſtrong conſervation it hinders Age from ſurprizing Youth too ſoon, &amp; may with good ſucceſs be uſed by Aged perſons againſt what<g ref="char:EOLhyphen"/>ever Malady they are ſubject unto. It cures every Diſeaſe both hot and cold, which is incident to the body of man, neither is there any Vegetable Medicine that exceeds it. The Doſe is from ſix to twelve drops, or more, in Wine, Ale, or any other appropriated Liquuor.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>MIthradate</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>enice Treacle</hi> have been eſteemed of all other Confections the moſt renowned, and worthieſt, for more then 1600 years. The admirable effects they have, and do ſtill produce, is the cauſe they are ſo much in uſe, and diſpoſed of in ſuch vaſt quantities, throughout the greateſt parts of the world. Mithridate is good againſt Poiſon, the ſtinging of Adders and bitings of Mad dogs, being taken inwardly in the largeſt quantity, and applyed outwardly; expels from the body all ill humours, and Diſeaſes coming of cold and wind, from head to foot; warms and ſtrengthens the Brain, removes the ſtopping of the paſſages of the ſenſes, by cold; heals the infirmities of the Mind, drives away vain fears from perſons af<g ref="char:EOLhyphen"/>fected with Melancholy, helps a cold wateriſh Stomach, and ſtrengthens it much, is profitable for ſuch women as cannot Conceive by reaſon of cold, provokes ſweat, hath a peculiar power to preſerve againſt bad Airs, the Plague, and all Peſti<g ref="char:EOLhyphen"/>lential Diſeaſes, opens the Breaſt, allays the Cough, and pro<g ref="char:EOLhyphen"/>vokes the tough humours to be coughed up. It is good to re<g ref="char:EOLhyphen"/>move all Agues in the beginning, and all bruiſes cauſed by falls, or other waies. The ſame directions are to be obſerved in the taking of it, as are preſcribed in Venice Treacle, and the ſame quantity to cauſe Sweat, the Virtues of both being the ſame. <hi>Mithridates</hi> King of <hi>Pontus,</hi> a moſt Potent and Learned Monarch, was the Inventor of this Noble Antidote,
+<pb n="14" facs="tcp:192200:8"/>who being vanquiſhed by <hi>Pompey,</hi> and fearing he would lead him in Triumph to <hi>Rome,</hi> took Poyſon, from which he received not the leaſt trouble, having before made frequent trial of this Medicine for the prevention of ſuch poiſonous practiſes, which he ſuſpected might treacherouſly be uſed againſt him, and it proved indeed ſo great a Counter-poyſon, that although he wanted not skill to frame his deadly Potion, yet could not his body feel any ill effect by it, whereupon he called a Souldier to him, deſiring him to kill him, whoſe ſlow and trembling hand <hi>Mithridates</hi> himſelf forced to his own ſlaughter. A<g ref="char:EOLhyphen"/>mongſt his Treaſuries and Spoils, a great many Medicinal Re<g ref="char:EOLhyphen"/>ceipts were found, which the King had laid up moſt ſafely, as great ſecrets. <hi>Pompey</hi> brought theſe to <hi>Rome</hi> and gave them to <hi>Damocrates</hi> and <hi>Andromachus</hi> Roman Phyſitians, who ap<g ref="char:EOLhyphen"/>proved of all the Remedies, but eſpecially of the Mithridate, whoſe deſcription <hi>Damocrates</hi> ſet forth, and therefore it is called by the Antients <hi>Mithridatium Damocratis.</hi> This <hi>Mithri<g ref="char:EOLhyphen"/>date</hi> hath been moſt in uſe until the laſt great Plague, ſince which time, in ſome parts of the Country, Venice Treacle (called <hi>Theriaca Andromachi,</hi> becauſe it was ſet forth by <hi>Andromachus,</hi> one of <hi>Nero</hi>'s Phyſitians) hath been in greater requeſt. <hi>Mithri<g ref="char:EOLhyphen"/>dates</hi> is juſtly made the Author of both, for <hi>Damocrates</hi> &amp; <hi>Andro<g ref="char:EOLhyphen"/>machus</hi> only diſpoſed the matter whereof they conſiſt, more or<g ref="char:EOLhyphen"/>derly, &amp; added ſome few things. It is not without good Ground that they call Mithridate the Father, and Theriack the Mother of Medicaments, ſeeing in Dignity and Excellency they far exceed all others, and comprehend all others Faculties; for there is ſcarce any preternatural affection whereunto one of theſe, duly prepared doth not conduce.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>THeriaca Andromachi,</hi> or Venice Treacle reſiſts all Poyſon, Diſeaſes, and Evils which may happen unto the Body of Man. Cures Head-Aches, Giddineſs, Dulneſs of Sight and Hearing, the Apoplexy, Falling Sickneſs, Difficulty of Breath<g ref="char:EOLhyphen"/>ing, Old or New Coughs. Helps Concoction, Cold Stomachs, all Gripings and Wind in the Bowels, the Jaundice, Dropſie,
+<pb n="15" facs="tcp:192200:8"/>Gout, hardneſs of the Spleen, Vain Fears and Melancholy, Pains in the Joints and Kidnies; It kills Worms, repreſſes the immo<g ref="char:EOLhyphen"/>derate beating of the Heart, comforting and fortifying it greatly, together with the Brain, and whole Body. Is good againſt Swoonings and Weakneſs, preſerves from Contagion in Peſtilen<g ref="char:EOLhyphen"/>tial times, Expels the Monthly Flowers, caſts out the Dead Child, as alſo the Stone in the Reins and Bladder. It helps the bitings of Mad Dogs, and Stinging of Adders, if inwardly given, and outwardly applyed. It opens all Obſtructions, gives a good and lively colour to thoſe who want it, and hath been found upon long Experience to be of ſingular uſe and benefit in the begin<g ref="char:EOLhyphen"/>ning of all ſorts of Agues, and Feavers, eſpecially Quartans. In Feavers, Agues, all cold Diſtempers of the Limbs, and Joynts and other inconveniences occaſioned by cold and Bruiſes, a Man or Woman may take One Dram and half, or Two Drams, in Carduus Poſſet, or Mace Beet; to Children the quantity muſt be proportioned according to their ſeveral ages. Cover your ſelf warm in the Bed, and Sweat three or four hours, or ſo long as ſhall be thought convenient, drinking either Carduus Poſſet, or Mace Beer in the time of Sweating, at the end of which, have an hot Shirt in readineſs to be put on, and wipe off the Sweat with warm Cloaths. In other caſes a Dram or half a Dram may be taken at a time Mornings and Evenings, in Sack or Beer: To preſerve from Contagion, mix one Ounce of the Confection of Gilliflowers with half an Ounce of this, and take the quantity of a Nutmeg at a time, Mornings and Evenings, or when there ſhall be occaſion.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>DIaſcordium</hi> is an Exccellent Cordial in the Plague and Pe<g ref="char:EOLhyphen"/>ſtilential Feavers; ſettles and compoſes the Spirits when diſturbed by Feaveriſh, or any other Diſtempers. Allays the pains of the Head, &amp; is good to be uſed by Women in Child bed to haſten their Labour, and help their uſual Sickneſs at that time. It ſtops Fluxes, ſtrengthens the Stomach and Heart, and pro<g ref="char:EOLhyphen"/>vokes Sleep. VVeak People and young Children may take from five Grains to a Dram; thoſe who are ſtronger, a Dram and half, or ſomtimes two Drams.</p>
+         </div>
+         <div type="remedy">
+            <pb n="16" facs="tcp:192200:9"/>
+            <p>
+               <hi>LOndon Treacle</hi> is a good Antidote in Peſtilential times, re<g ref="char:EOLhyphen"/>ſiſts Poyſon, helps Digeſtion, ſtrengthens cold Stomachs, and is a good Cordial in any Diſeaſe whatever. A quarter of an Ounce, or half as much may be taken at a time, or it being mixt with an equal quantity of Confection of Gilliflowers, the quantity of a Nutmeg, or more may be taken, Mornings and Evenings, or once in ſix hours.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>COnfection of Gilliflowers</hi> is of a temperate quality, and a ve<g ref="char:EOLhyphen"/>ry choice Cordial. It reſiſts the Plague or any Venom, the Small-Pox and Meaſles, as alſo any ſort of Feaver or Ague: ſtrengthens Nature. and is good againſt Conſumptions, and all other Weakneſſes. Give the quantity of a Wallnut, ſo often as cauſe ſhall be ſeen. If one Dram of Confection of Hya<g ref="char:EOLhyphen"/>cinth be mixed with one Ounce of this, it will add to its Cordial virtue in Feavers; and if one Dram of Confection of Alkermes be mixed with a like quantity, it will render it the more Effectual in any kind of VVeakneſs. One Ounce likewiſe of this Confection being mixed with half an Ounce of <hi>Diaſcor<g ref="char:EOLhyphen"/>dium, Mithradat,</hi> or, Venice Treacle, and the quantity of a Nut<g ref="char:EOLhyphen"/>meg taken, when there ſhall be cauſe, will be of great benefit in ſuch caſes, wherein thoſe Medicines may be uſed; as alſo a good preſervative againſt any Infection, or ill and Corrupt<g ref="char:EOLhyphen"/>ed air.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Tincture of Roſes</hi> corrects and ſtrengthens the Stomach mightily, is an approved Medicine in violent Vomitings and Purgings, alſo when digeſtion is Weak, and Natural Ap<g ref="char:EOLhyphen"/>petite to Meat Defective. It is highly profitable in the Diſeaſe called Cholera, which is a violent Vomiting and Purging both at once, and uſeth to kill very ſuddenly. But in this caſe it muſt be taken in a great quantity at a time, as Glasful after Glasful,
+<pb n="17" facs="tcp:192200:9"/>till a Quart, three Pints or more be drankt, and if the party hap<g ref="char:EOLhyphen"/>pens to Vomit up the firſt draughts, he ought nevertheleſs to keep on drinking, until it ſtaies in the Stomach. It cauſes even to admiration, a wonderful calm in the Body, by appeaſing of thoſe hot Tempeſts, which ſharp Cholerick humours have ſtirred up; and by mixing it ſelf with the humours offending, and taking away whatever is acrimonious in them. Alſo it is a very pleaſing and uſeful Liquor in all hot Feavers, continual or intermitting, to be uſed for ordinary Drink; its conſtant uſe being that, which takes away the cauſe of thoſe Diſeaſes, and this being done, the effects muſt neceſſarily ceaſe.</p>
+            <p>To make this <hi>Tincture,</hi> take of dryed red Roſe leaves one Ounce, put them into a ſtone or well-glazed Earthen Veſſel, with as much boiling Water as will moiſten them, drop in lea<g ref="char:EOLhyphen"/>ſurely four Scruples of Spirit of Vitriol, continually agitating and moving the Roſe leaves: after which, pour upon them four Pints of boiling Water, cover it cloſe until it be cold, then let it run through a Flannel Cloth, or Filter Bag, and add to the Liquor half a Pound of VVhite Sugar.</p>
+         </div>
+         <div type="remedy">
+            <head>Barly Water.</head>
+            <p>TAke two Ounces of French Barly, boil it a Turn or more, in two Quarts of Spring VVater, then throw it away, and put to the Barly ſo much more VVater, boiling it the ſecond time, as at firſt, throw away that VVater likewiſe, and Once more add to it the like quantity, which boil gently, till a third part be conſumed; let it ſtand to ſettle, after which pour off the clear VVater into a Bottle, and mix with it Syrrup of Vio<g ref="char:EOLhyphen"/>lets and Wood-Sorrel, of each three Spoonfuls, Spirit of Vi<g ref="char:EOLhyphen"/>triol thirty or fourty drops. It moiſtens, cools and cleanſes the body, allays the Acrimony of ſharp humours, and is an excel<g ref="char:EOLhyphen"/>lent Drink in Feavers, hot affections of the Stomach, Liver, Reins, or any other part. It may be uſed for all thoſe in<g ref="char:EOLhyphen"/>tents and purpoſes to which the <hi>Tincture of Roſes</hi> doth conduce; and ſhould be taken in a large quantity at a time
+<pb n="18" facs="tcp:192200:10"/>by which ſmall and gentle means, extraordinary effects have been oftentimes produced: for as fierce and bluſtering winds and tempeſts are frequently allayed by a ſuddain ſhower of Rain: ſo in like manner, the greateſt commotion imaginable, in the Microcoſm, diſcovering it ſelf by continual Vomitings, Purgings, and Swoonings, have been many times quelled by ſuch drinks as this, and the former, when the higheſt Cordials have procured no better an effect, than the return of the faint<g ref="char:EOLhyphen"/>ing Fit. If the Conſtitution of body, and the Diſeaſe require it, you may mix Cinamon or Bezoar water, Spirit of Elder, or of Mints, in ſuch a proportion, that the largeſt Doſe of them, may ſerve for as much of the Barly water as you take at once.</p>
+            <p>The Decoction of Hartſhorn, in the next place to be ſpoken of, greatly avails, being mixed and uſed in all reſpects, as <hi>Bar<g ref="char:EOLhyphen"/>ly water.</hi>
+            </p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>RAſped Hartſhorn</hi> helps Putrefaction, corrects Malignity, provokes Sweat; ſtops Vomiting, Fluxes of the Womb, and Bowels; kills Worms, and ſtrengthens the Natural Bal<g ref="char:EOLhyphen"/>ſom in our bodies, is very good in the Small Pox, and Mea<g ref="char:EOLhyphen"/>ſles, in Putrid and Malignant Feavers, allayeth all ſharp hu<g ref="char:EOLhyphen"/>mours, and is exceeding uſeful for Children, as well as for per<g ref="char:EOLhyphen"/>ſons of riper years. Take one Ounce of <hi>Raſped Hartſhorn,</hi> boil it in two quarts of water cloſe covered, to one quart: ſtrain it, and add half an Ounce of Sugar, with two or three ſpoonfuls of Roſe-water, then let it be bottled, and give it plentifully in<g ref="char:EOLhyphen"/>ſtead of drink. Being boyled with Vinegar, it helpeth Ring<g ref="char:EOLhyphen"/>worms; being warmed and ſteeped in Vinegar and applied to the Gumms it ſtrengthens them, helps the pain of the Jaws, cauſed by the breeding of Teeth; and alſo faſtens looſe Teeth.</p>
+         </div>
+         <div type="remedy">
+            <pb n="19" facs="tcp:192200:10"/>
+            <p>THe <hi>Hartſhorn Balls</hi> are very good for Children, and thoſe of riper years, in the Small Pox, Meaſles, Fea<g ref="char:EOLhyphen"/>vers, Worms; and in any Malignant Diſtemper. They are good in all Fluxes, Looſneſſes, Spitting of Blood, and Dy<g ref="char:EOLhyphen"/>ſentery; they dry up all moiſt humours, ſtrengthen much, and may ſafely be given to Children in any Diſeaſe that ſhall hap<g ref="char:EOLhyphen"/>pen unto them: Take from ten to ſixty Grains, Mornings and Evenings, or once in ſix hours, in any convenient mix<g ref="char:EOLhyphen"/>ture, or in a ſpoonful of the above-preſcribed Drink, taking a draught of it preſently after. If you mix them with <hi>Un<g ref="char:EOLhyphen"/>guentum Pomatum,</hi> and anoint the Lids and Corners of the Eyes with it, it helps their Ulcers and Defluxions. The Teeth being rubbed with the powder of the Balls, upon a cloth, every day, will be whitened by it, and the Gumms ſtrengthned.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>SPirit of Hartſhorn</hi> is an excellent Remedy to cleanſe the whole maſs of Blood, by Urine and Sweat, and by in<g ref="char:EOLhyphen"/>ſenſible Tranſpiration. It is a true Specifick againſt the Scurvy, and all other Diſeaſes which proceed from alte<g ref="char:EOLhyphen"/>ration of the blood. It refiſteth Putrefaction, comforteth Nature, and openeth Obſtructions. Good effects have been found by it in Feavers, Pluriſies, ſtoppings of the Spleen, Coughs, diſtempers of the Brain, Epileptical Fits, Madneſs, the Worms, Quartan Agues, <hi>&amp;c.</hi> It may be taken from ſix drops to twelve in Carduus water ſweetned with Sugar, or in Beer and Sugar. A Child may take one, two, or more drops, according to the age, but before the uſe of it, it is good to cleanſe the body by ſome purging Medicine, in thoſe caſes where it may be done ſafely.</p>
+         </div>
+         <div type="remedy">
+            <pb n="20" facs="tcp:192200:11"/>
+            <p>THe <hi>Hyſterical water</hi> is very good againſt Fits of the Mo<g ref="char:EOLhyphen"/>ther, provokes the Terms, and cleanſes the Womb ex<g ref="char:EOLhyphen"/>ceedingly: It expels both Birth, and After-birth, and is like<g ref="char:EOLhyphen"/>wiſe an excellent Remedy if afterwards any ſtoppage happens, or Nature be defective in throwing forth what it ought in Child-birth; to forward the birth, and when there appears an inability in Nature to expel it, you may giue three ſpoon<g ref="char:EOLhyphen"/>fuls of this, with a ſpoonful or two of Cinamon water, and in this caſe, once taking of it doth oftentimes produce the de<g ref="char:EOLhyphen"/>fired effect; provided, that it be made uſe of in due time, for if otherwiſe uſed, whether too ſoon, or out of ſeaſon, the afore<g ref="char:EOLhyphen"/>ſaid effects cannot be expected. The ſame quantity may be tak<g ref="char:EOLhyphen"/>en for expelling the After-birth, and for removing any ſtop<g ref="char:EOLhyphen"/>page occaſioned by taking cold, or other accident. In Fits of the Mother, and ſuch like affects it may be uſed as often as there ſhall be cauſe. Women with Child muſt by no meanes meddle with it, until the fullneſs of time be come, for the Child to be born.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>TReacle water</hi> is very good in Feavers of all ſorts, eſ<g ref="char:EOLhyphen"/>pecially Peſtilential. It is an admirable Remedy a<g ref="char:EOLhyphen"/>gainſt the Plague, Poyſon, the biting of Adders, or any Venomous Beaſts. It expelleth Venomous Humours, by Sweat, fortifieth the Heart and Spirits againſt them, and is of ſingular uſe in the Small Pox and Meaſles. One, two, three or four ſpoonfuls may be taken in Carduus water, ſweetned with Syrup of Gilliſlowers, and lye to Sweat.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>PLague water</hi> is a Soveraign Cordiall for the Heart, and an excellent Antidote againſt the Plague, Peſtilential and Malignant Feavers, Poyſon, the biting of Mad Dogs, alſo
+<pb n="21" facs="tcp:192200:11" rendition="simple:additions"/>ſtinging of Adders; and may be uſed with good ſucceſs be<g ref="char:EOLhyphen"/>fore the Fits of Agues, to hinder their coming, and to drive them away. 'Tis an Excellent Remedy for a Surfeit, alſo for the Wind, and other cold griefs of the Stomach. It helps inward Bruiſes, and diſcuſſes Congealed Blood. Take two or three ſpoonfuls of it, for a Surfeit, once in ſix hours until the undigeſted matter in the Stomach be concocted: For the Wind, and all other griefs of the Sto<g ref="char:EOLhyphen"/>mach, and to comfort the heart, a ſpoonful may be taken at a time, or more when cauſe ſhall be ſeen: In all other caſes three ſpoonfuls or more, may be taken in warm Poſſet, or ſome proper water, when you firſt find your ſelf to be ill, being covered warm in the bed to ſweat well afterwards.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>Cinamon Water</hi> is very Cordial, comforteth a weak and cold Stomach, helpeth Griping pains in the Bowels, occaſi<g ref="char:EOLhyphen"/>oned by cold, cauſeth a freſh and lively colour in the Face, provoketh Urine, and the Terms. It ſweetneth the Breath, reſiſteth Poyſon, ſtops Fluxes and Vomitings, haſtens the Birth, helps the fainting Spirits, and trembling of the Heart, ſtrengthens the Retentive Faculty, comforts the Brain and Sinews, and is exceeding good for Cold and Moiſt bodies,</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>Spirit of Mints</hi> comforts the Head and Memory, warms the Stomach and Bowels, expels Superfluous Humours, cauſes Digeſtion, ſtirs up the Appetite, ſtays Vomiting, and the Hiccough; helps a Cold Liver, and removes its Ob<g ref="char:EOLhyphen"/>ſtructions. It is alſo good for women in Child-bearing, in their hard and ſore labours.</p>
+         </div>
+         <div type="remedy">
+            <pb n="22" facs="tcp:192200:12"/>
+            <p>
+               <hi>BEzoar water</hi> is a very great Cordial; it expels from the Heart and Spirits evil Vapours, and Humours, which annoy them. It drives forth Peſtilential and Malig<g ref="char:EOLhyphen"/>nant Feavers by Sweat; reſiſts Melancholy, and wonder<g ref="char:EOLhyphen"/>fully relieves the Spirits being overwhelmed therewith. It is Excellent in Swooning Fits, a ſpoonful being taken at a time, mixt with Borrage water, and a little Syrup of Gilliflowers: it may be taken otherwiſe, alone, or in Sack, or in any Cordial water: but in Swoonings, and to provoke Sweat, if there be cauſe, two or three ſpoonfuls may be ta<g ref="char:EOLhyphen"/>ken at a time.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>AQua Coeleſtis</hi> doth exceedingly help ſuch as are loaden and oppreſſed with Melancholy, by expelling annoy<g ref="char:EOLhyphen"/>ances from the Heart, and cheering the Spirits. It en<g ref="char:EOLhyphen"/>livens the dull and ſtupid Senſes, is available in all Malig<g ref="char:EOLhyphen"/>nant Feavers, and in ſwoonings, half a ſpoonful being taken at a time in a draught of the Decoction of Hartſhorn, or in cold diſtilled, Cordial, or Imperial Water, and ſweetned with Syrup of Gilliflowers.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>AQua Mirabilis</hi> comforts and ſtrengthens the Heart, Stomach, and Brain, and is of great uſe in Faintings, and Swoonings, and for Women in Travail with Child; for which purpoſe, mix with it Cinamon water, Spirit of Mints, Bezoar water, or Aqua Coeleſtis, and Imperial water, which being ſweetned with Syrup of Gilliflowers, or fine Loaf Sugar, give two or three ſpoonfuls at a time, as often as there ſhall be cauſe.</p>
+         </div>
+         <div type="remedy">
+            <pb n="23" facs="tcp:192200:12"/>
+            <p>
+               <hi>IMperial water</hi> is of a Milde and Moderate Temper, and may ſafely be uſed, two or three ſpoonfuls with Syrup of Gilliflowers, at any time, againſt Faintings and Swoon<g ref="char:EOLhyphen"/>ings, and is a Preſervative againſt Conſumptions.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>TIncture of Ambergreiſe</hi> Strengthens, Comforts, Warms, and Refreſhes the Brain, and Senſes exceedingly, quickens the dulneſs of them; eaſes the pains of the Head, diſſolveth the Cold Defluxions of Humours, which fall thereon, and on the Nerves and Sinews. It likewiſe ſtrengthens the Memory, and is very beneficial to the Heart, and Fainting Spirits, takes away the Paſſions and Tremblings of the Heart, making it Merry and Joyfull: It expells Sadneſs, removes Barrenneſs, proceeding from a cold cauſe, and is accounted conducible to Venereous actions; it moſt conveniently agrees with Aged Perſons, for it Warms, Comforts, and Strengthens their Cold Decayed Spirits. A few Drops of this Tincture will Perfume any Cordial water, Wine, or other thing, and impregnate it with its Virtue. It is made thus: Take of Ambergreiſe two Drams, Musk half a Dram; let the Amber be very finely ſhaved, or cut as thin as may be; put it into a thin Lin<g ref="char:EOLhyphen"/>nen bag, tye it cloſe, and let it ly in a ſtrong Glaſs bot<g ref="char:EOLhyphen"/>tle, with half a Pint of the beſt Spirit of Wine, ſtop it well with Cork and Bladder, and ſet it in a warm Bath, or in the Sun for a Fortnights ſpace, then pour off the Tincture and keep it in a Bottle cloſe ſtopped, for uſe: put to the Ambergreiſe half a Pint more of Spirit of Wine, ſtop it cloſe, and ſet it in the Sun, as before, after which preſerve it for your uſe.</p>
+         </div>
+         <div type="remedy">
+            <pb n="24" facs="tcp:192200:13"/>
+            <p>
+               <hi>BEzoar Stones</hi> are much commended againſt the bitings of Venomous Beaſts, ſtinging of Vipers, and againſt all Contagious Diſeaſes, as the Small Pox, Meaſles, Peſti<g ref="char:EOLhyphen"/>lence, Malignant Feavers, and the like. They alſo cure Swoonings, long Sorrows, Hyſterical Paſſions, with many other ill Affections. A Man or Woman may take ten or twenty Grains at a time. A Child three or four Grains, or more, according to the Age.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>GAſcoign Powder</hi> is good in all ſorts of Feavers, in the Small Pox, Meaſles, Swoonings, and Tremblings of the Heart. It cheers the Heart, and Vital Spirits exceeding<g ref="char:EOLhyphen"/>ly, and is a ſafe and harmleſs Medicine, which may be given in any caſe, ſix eight or ten Grains at a time to Children, and twenty or thirty Grains to Perſons of full Age. Take it in any thing you like beſt, once in ſix hours, as long as there ſhall be cauſe.</p>
+         </div>
+         <div type="remedy">
+            <p>THe <hi>Red Cordial Powder</hi> is a ſpecial remedy, and is given with great ſucceſs in all Malignant and Peſtilential Di<g ref="char:EOLhyphen"/>ſeaſes, in Feavers of all ſorts, Small Pox and Meaſles. It is very profitable againſt Poyſon and ſtinging of Adders, re<g ref="char:EOLhyphen"/>ſiſts Putrefaction, ſtrengthens the Heart and Brain, puri<g ref="char:EOLhyphen"/>fies the whole Maſs of Blood, and is an excellent powder to diſſolve congealed Blood, occaſioned by Falls, Bruiſes, Impoſthumes and the like. It may be taken from Ten to Sixty Grains according to the age, in any convenient mixture, which is moſt proper to the occaſion.</p>
+         </div>
+         <div type="remedy">
+            <pb n="25" facs="tcp:192200:13"/>
+            <p>
+               <hi>MEtheglen</hi> is a Drink, which the ancient Britains did put an high value upon, keeping it in their Houſes as Nectar, and affirming thar it was more pretious than Malmſey: for when it is old, 'tis reckon'd a wine moſt agreeable to the Stomach, which it ſtrengthens exceedingly; it potently concocts cold Hu<g ref="char:EOLhyphen"/>mours, hinders Crudities, reſtores the loſt Appetite, and is good for thoſe who are troubled with the Cough, and ſhortneſs of Breath. It helps Expectoration, Expells Wind, Mitigates the Pains of the Colick, is profitable in the Yellow Jaundies, in Diſeaſes of the Brain, and in thoſe which proceed from Me<g ref="char:EOLhyphen"/>lancholy, as the Quartan Ague, Scurvy, <hi>&amp;c.</hi> It conduceth much to cold Conſtitutions, is very nouriſhing to the Body, and by the uſe of it, many have lived to extream old Age: Pertinent hereunto is that relation, of one of an Hundred Years Old, who being demanded by <hi>Auguſtus Caeſar,</hi> what means he chiefly uſed to preſerve that Vigor of mind and Body, which he was obſerved at that time very briskly to retain; made this reply to the Emperor, that he imputed his long continued health to nought, beſides this Drink, which he verily thought to be the greateſt cauſe thereof. Mr. <hi>Butler</hi> diſcourſing of it, in his Treatiſe of <hi>Bees,</hi> ſaith that as good and Old Methe<g ref="char:EOLhyphen"/>glen Excelleth all VVines, both for pleaſantneſs of taſt, and preſerving of Health: ſo being burnt, it is better than any burnt Wine whatſoever, to comfort and ſettle a Weak Sto<g ref="char:EOLhyphen"/>mach, and to procure natural heat. The manner of burning it, is firſt to ſet on the Fire a deep Skillet, or Kettle almoſt full of Water; when it boils, put in a Pewter Pot full of Metheglen, which you muſt Skum before it begins to boil, and put into it two or three bruiſed Cloves, with a branch of Roſemary; then beat the Yolk of an Egg in a Diſh, and mix with it a ſpoonful of cold Metheglen, ſtirring all together to keep the Yolk from Curdling; add to that a ſpoonful of the hot Me<g ref="char:EOLhyphen"/>theglen, after which another, and another; alwaies beat<g ref="char:EOLhyphen"/>ing them together. Afterwards, by degrees pour all into the
+<pb n="26" facs="tcp:192200:14"/>Pot, continually ſtirring it about; aſſoon as it boils, take the Pot out of the Kettle of Water, and pour the Metheglen into another warm Pot of the like bigneſs; Fireing it, as it paſſeth from one to the other; which muſt be done until the Flagration ceaſeth, and it will burn no longer. A Methe<g ref="char:EOLhyphen"/>glen Poſſet hath the ſame virtues.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>JUniper Ale</hi> Comforts the Brain, Strengthens the Memo<g ref="char:EOLhyphen"/>ry, and all the Senſes, is good againſt the Palſie, and Convulſions, the Cough, Shortneſs of Breath; with o<g ref="char:EOLhyphen"/>ther Diſeaſes of the Breaſt and Lungs. It Strengthens the Stomach very much, Diſſolves the Swellings, and Windi<g ref="char:EOLhyphen"/>noſs thereof, and Eaſes the Griping Pains and Torments in the Belly. It provokes the Terms and Urine, and greatly a<g ref="char:EOLhyphen"/>vails againſt the Stone, Strangury, Hyſterick Fits, Dropſie, Scurvy, the Quartan, and all other cold Agues, the Gout, and Sciatica. It fortifies all the Members of the body, and (to be ſhort) is effectual for all Diſeaſes proceeding from a Cold Cauſe, and is likewiſe a very good preſervative in Peſtilential times.</p>
+            <p>To every Ale Gallon of good Wort, well Maulted, put One Ounce and half of Juniper-berries, bruiſed, and a ſuf<g ref="char:EOLhyphen"/>ficient quantity of Hops: Let it be well boiled, and when 'tis cold, ſtrain it; afterwards ripen it, and when it comes to be fit for drinking, you may take of it at any time. It will be convenient to have it Bottled in due ſeaſon.</p>
+         </div>
+         <div type="remedy">
+            <p>
+               <hi>DAucus Ale</hi> breaks Wind, cures Stitches in the Sides, aſ<g ref="char:EOLhyphen"/>ſwages the Tormenting Pains of Gripeing in the Guts, provokes Urine, and the Terms; breaks, and expels the Stone and Gravel. It is good againſt the Dropſie, and for thoſe Perſons whoſe Bellies are ſwollen with VVind, alſo a<g ref="char:EOLhyphen"/>gainſt
+<pb n="27" facs="tcp:192200:14"/>the Strangury, Painful making of water, and the riſing of the Mother. It helpeth Conception, and is good to ripen an Old Cough.</p>
+            <p>To every Ale Gallon of good Beer, well boiled, and hop<g ref="char:EOLhyphen"/>ped, put one Ounce and half of the Seeds of wild Carrats bruiſed, in a thin linnen Bag; aſſoon as it hath done working, and when it is come to Maturity Drink of it at any time.</p>
+         </div>
+         <div type="remedy">
+            <head>Scurvy-graſs Ale.</head>
+            <p>SCurvy-graſs Ale or Beer, is a very antient Drink of this Iſle, againſt the Scurvy; it was held in great eſteem by the old Britains, who accounted it the moſt approved Liquor in the World, and later Experience hath conferred much to their opi<g ref="char:EOLhyphen"/>nion, by the good effects it hath produced in that Diſeaſe. It opens Obſtructions, Evacuates Cold, Clammy and Phlegmatick Humours, from the Liver and Spleen, ſoftens and takes away the Hardneſs, and Swelling of thoſe Parts, and reduces the Body to a more chearful and lively Colour. To make it; put a Peck or more of bruiſed Scurvy-graſs into half an Hogſhead of Ale or Beer, while it is working: Then put into a thin Bag, long Pep<g ref="char:EOLhyphen"/>per, Grains, Anniſeed, and Liquorice of each two Ounces, which hang in the Ale, and when it is clear, Drink of it at any time.</p>
+         </div>
+         <div type="remedy">
+            <p>TO take away Redneſs in the Face, Sun-burn, Morphew, Freckles, Pimples, Puſhes, or any Inflammation: Take of Sacchar. Saturni, &amp; Sal. Gem. of each half an Ounce, diſ<g ref="char:EOLhyphen"/>ſolve them in two ſeveral bottles, in each of which put a quarter of a Pint of Plantain Water, afterwards when there is an occaſion to uſe it, mix an equal quantity of both in another Glaſs, and it will be like Milk.</p>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:192200:15"/>
+            <pb n="29" facs="tcp:192200:15"/>
+            <head>The INDEX.</head>
+            <list>
+               <item>
+                  <hi>THE Spirit.</hi> 1</item>
+               <item>
+                  <hi>The Tarter Dyet-drink.</hi> 6</item>
+               <item>
+                  <hi>Tinctura mirabilis.</hi> 7</item>
+               <item>
+                  <hi>The Aromatick Tincture.</hi> 8</item>
+               <item>
+                  <hi>The Lenitive Electuary.</hi> ibid.</item>
+               <item>
+                  <hi>Spleen Pills.</hi> 9</item>
+               <item>
+                  <hi>Common Pills.</hi> ibid.</item>
+               <item>
+                  <hi>Strong Pills.</hi> 10</item>
+               <item>
+                  <hi>The purging Powder.</hi> ibid.</item>
+               <item>
+                  <hi>Rheum Pills.</hi> 11</item>
+               <item>
+                  <hi>Pectoral Rolls.</hi> ibid.</item>
+               <item>
+                  <hi>Two Pectoral drinks.</hi> 12</item>
+               <item>
+                  <hi>The true Elixar Proprietatis.</hi> ibid.</item>
+               <item>
+                  <hi>Mithradat.</hi> 13</item>
+               <item>
+                  <hi>Venice Treacle.</hi> 14</item>
+               <item>
+                  <hi>Diaſcordium.</hi> 15</item>
+               <item>
+                  <hi>London Treacle.</hi> 16</item>
+               <item>
+                  <hi>Confection of Gilliflowers.</hi> ibid.</item>
+               <item>
+                  <hi>Tincture of Roſes.</hi> ibid.</item>
+               <item>
+                  <hi>Barly water.</hi> 17</item>
+               <item>
+                  <hi>Raſped Hartſhorn.,</hi> 18</item>
+               <item>
+                  <hi>Hartſhorn Balls.</hi> 19</item>
+               <item>
+                  <hi>Spirit of Hartſhorn.</hi> ibid.</item>
+               <item>
+                  <hi>Hyſterical water.</hi> 20</item>
+               <item>
+                  <hi>Treacle water.</hi> ibid.</item>
+               <item>
+                  <hi>Plague water.</hi> ibid.</item>
+               <item>
+                  <hi>Cinamon water.</hi> 21</item>
+               <item>
+                  <hi>Spirit of Mints.</hi> ibid.</item>
+               <item>
+                  <hi>Bezoar water.</hi> 22</item>
+               <item>
+                  <hi>Aqua coeleſtis.</hi> ibid.</item>
+               <item>
+                  <hi>Aqua Mirabilis.</hi> ibid.</item>
+               <item>
+                  <hi>Imperial water.</hi> 23</item>
+               <item>
+                  <hi>Tincture of Ambergrieſe.</hi> ibid.</item>
+               <item>
+                  <hi>Bezoar ſtones.</hi> 24</item>
+               <item>
+                  <hi>Gaſcoign's Powder.</hi> ibid.</item>
+               <item>
+                  <hi>The Red Cordial powder.</hi> ibid.</item>
+               <item>
+                  <hi>Metheglin.</hi> 25</item>
+               <item>
+                  <hi>Juniper Ale.</hi> 26</item>
+               <item>
+                  <hi>Daucus Ale.</hi> ibid.</item>
+               <item>
+                  <hi>Scurvygraſs Ale.</hi> 27</item>
+               <item>
+                  <hi>Saccharum Saturni &amp; Sal Gemm.</hi> ibid.</item>
+            </list>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:192200:16"/>
+            <pb facs="tcp:192200:16"/>
+            <head>ERRATA</head>
+            <p>Page 1. Line 11. for crums or Whitebread, read of. p. 2. l. 30. for root, r. roots. p. 5. l. 12. for dreſs, r. preſs. p. 7. l. 2. for felf, r. ſelf. p. 10. l. 18. for it, r. they. p. 12. l. 4. for firſt, r. firſt. p. 13. l. 16. for world, r. world. p. 13. l. 29. for fall, r. falls. p. 15. l. 6. for caſt, r. caſts. p. 15. l. 21. for and, r. an. p. 15. l. 24. for of a Gilliflowers, r. of Gilliflowers. p. 15. l. 26. for of Nutmeg, r. of a Nutmeg.</p>
+            <pb facs="tcp:192200:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
